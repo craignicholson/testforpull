@@ -1,0 +1,11 @@
+This is my first line of the file.  Pick a word to change.
+
+We can try and combine other stuff in another way.
+
+Let's do this right, make some statements and fix them as we go.
+
+How do we make contributions to open source.
+* Fork the repository
+* Make a branch and add your change.
+* Make a pull request in the original repo to pull in your branch
+* Make happy sounds with pull is accpeted.
